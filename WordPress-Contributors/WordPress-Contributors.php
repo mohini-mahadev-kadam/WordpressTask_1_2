@@ -2,13 +2,15 @@
 /**
  * Plugin Name: Wordpress-Contributors Plugin
  * Plugin URI: https://Wordpress-Contributors.com/
- * Description: Displays the Contributors name.
+ * Description: Displays the Contributors name with gravator.
  * Version: 1.0
  * Author: Mohini Kadam
  * Author URI: https://mohinikadam.com/
  **/
 
  // plugin short code
+ 
+ 
 
 function get_contributor_list_shortcode() {
 

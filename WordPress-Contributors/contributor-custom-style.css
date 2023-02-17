@@ -1,0 +1,9 @@
+.contributorsStyle{
+    list-style-type: none;
+    margin:1rem 0 1rem 0 ;
+}
+
+.contributorsStyle img{
+    border-radius: 50px;
+    margin-right: 1rem;
+}

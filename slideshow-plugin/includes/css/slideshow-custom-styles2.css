@@ -1,0 +1,9 @@
+.previewimg{
+    width:400px; 
+    height:250px;
+   
+
+}
+.my-image-preview{
+    display: flex;
+}
